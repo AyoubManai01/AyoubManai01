@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ayoub.manai@esprit.tn**
 
-- 📄 Know about my experiences [📄 Download my CV](https://github.com/AyoubManai01/AyoubManai01/Ayoub-Manai-CV.pdf)
+- 📄 Know about my experiences [📄 Download my CV](https://github.com/AyoubManai01/AyoubManai01/raw/main/Ayoub-Manai-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
